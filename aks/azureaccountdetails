@@ -1,0 +1,16 @@
+[
+  {
+    "cloudName": "AzureCloud",
+    "homeTenantId": "b9f52012-b5d7-4ab4-bfaa-2d31507ba0fe",
+    "id": "9ea687dd-8c83-4b91-8591-34cb80a6d220",
+    "isDefault": true,
+    "managedByTenants": [],
+    "name": "Pay-As-You-Go",
+    "state": "Enabled",
+    "tenantId": "b9f52012-b5d7-4ab4-bfaa-2d31507ba0fe",
+    "user": {
+      "name": "ramcheekoti.hyd@gmail.com",
+      "type": "user"
+    }
+  }
+]
